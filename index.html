@@ -3,86 +3,242 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bankruptcy in Chicago -- Free Data &amp; Resources | Open Bankruptcy Project</title>
-<meta name="description" content="Free bankruptcy data for Chicago. N.D. Ill. has a 67.0% dismissal rate across 238,789 cases.">
+<title>Chicago Bankruptcy Statistics -- Chapter 13 Dismissal Rates | Open Bankruptcy Project</title>
+<meta name="description" content="N.D. Ill. has a 67.0% Chapter 13 dismissal rate with 137,366 cases dismissed out of 238,789 filed. Data analysis from the Open Bankruptcy Project.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="canonical" href="https://bankruptcychicago.org/">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CSBPNV4NKL"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-CSBPNV4NKL");</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-CSBPNV4NKL');</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"What is the Chapter 13 dismissal rate in Chicago?","acceptedAnswer":{"@type":"Answer","text":"The Northern District of Illinois has a 67.0% overall Chapter 13 dismissal rate based on 238,789 cases filed between 2008 and 2024. In 2024, the rate reached 94.1%."}},
+    {"@type":"Question","name":"How many Chapter 13 cases are dismissed in Chicago?","acceptedAnswer":{"@type":"Answer","text":"137,366 out of 238,789 Chapter 13 cases filed in the Northern District of Illinois between 2008 and 2024 ended in dismissal. Only 67,571 resulted in discharge."}},
+    {"@type":"Question","name":"What is the prior filer rate in Chicago bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"38.4% of Chapter 13 filers in the Northern District of Illinois have filed bankruptcy before. An estimated 7,607 cases may involve potential 1328(f) eligibility violations."}},
+    {"@type":"Question","name":"Is the Chicago bankruptcy dismissal rate getting worse?","acceptedAnswer":{"@type":"Answer","text":"Yes. The dismissal rate climbed from 56.3% in 2011 to 94.1% in 2024. The acceleration since 2020 has been dramatic -- from 60.4% to 94.1% in just four years."}}
+  ]
+}
+</script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:#e6edf3;background:#0d1117;line-height:1.6}
-.header{background:#0d1117;border-bottom:1px solid #30363d;padding:16px 0}
-.header-inner{max-width:1000px;margin:0 auto;padding:0 20px;display:flex;justify-content:space-between;align-items:center}
-.header a{color:#58a6ff;text-decoration:none;font-size:14px}
-.hero{background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);padding:60px 20px;text-align:center;border-bottom:1px solid #30363d}
-.hero h1{font-size:2.5em;margin-bottom:16px;color:#f0f6fc}
-.hero .subtitle{font-size:1.2em;color:#8b949e;margin-bottom:30px}
-.stat-cards{display:flex;gap:20px;justify-content:center;flex-wrap:wrap;margin-top:30px}
-.stat-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;min-width:200px;text-align:center}
-.stat-card .number{font-size:2.2em;font-weight:bold;color:#58a6ff}
-.stat-card .label{color:#8b949e;font-size:0.9em;margin-top:4px}
-.content{max-width:1000px;margin:0 auto;padding:40px 20px}
-.content h2{color:#f0f6fc;margin:40px 0 16px;font-size:1.8em;border-bottom:1px solid #30363d;padding-bottom:8px}
-.content p{color:#c9d1d9;margin-bottom:16px}
-table{width:100%;border-collapse:collapse;margin:20px 0;background:#161b22;border-radius:8px;overflow:hidden}
-th{background:#21262d;color:#f0f6fc;padding:12px 16px;text-align:left;font-weight:600}
-td{padding:12px 16px;border-top:1px solid #30363d;color:#c9d1d9}
-tr:hover td{background:#1c2128}
-.highlight{color:#f85149;font-weight:bold}
-.faq{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:20px 0}
-.faq h3{color:#f0f6fc;margin-bottom:8px}
-.faq p{color:#8b949e}
-.cta{background:#161b22;border:1px solid #58a6ff;border-radius:8px;padding:30px;text-align:center;margin:40px 0}
-.cta a{display:inline-block;background:#58a6ff;color:#0d1117;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;margin:8px}
-.network ul{list-style:none;display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}
-.network a{color:#58a6ff;text-decoration:none;font-size:14px}
-.footer{background:#0d1117;border-top:1px solid #30363d;padding:30px 20px;text-align:center;color:#8b949e;font-size:14px}
-.footer a{color:#58a6ff;text-decoration:none}
-@media(max-width:600px){.hero h1{font-size:1.8em}.stat-cards{flex-direction:column;align-items:center}table{font-size:14px}}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+.hero .alert{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 24px;display:inline-block;color:#f85149;font-weight:600;font-size:1.05rem}
+.stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;padding:32px 0}
+.stat-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;text-align:center}
+.stat-card .number{color:#58a6ff;font-size:2.2rem;font-weight:700}
+.stat-card .label{color:#8b949e;font-size:0.9rem;margin-top:4px}
+.stat-card.danger .number{color:#f85149}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.chart-container{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;overflow-x:auto}
+.chart-title{color:#f0f6fc;font-size:1.1rem;margin-bottom:16px;font-weight:600}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul{margin:12px 0 12px 24px}li{margin-bottom:6px}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.stats-row{grid-template-columns:1fr 1fr}.stat-card .number{font-size:1.6rem}}
+@media(max-width:480px){.stats-row{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
-<div class="header"><div class="header-inner">
-<a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a>
-<a href="https://1328f.com">Free Discharge Screener</a>
+<nav><div class="container"><a href="/" class="brand">Bankruptcy Chicago</a><div class="links"><a href="/">Home</a><a href="statistics.html">Statistics</a><a href="what-to-know.html">What to Know</a><a href="resources.html">Resources</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+
+<div class="hero"><div class="container">
+<h1>Chicago Chapter 13 Bankruptcy Data</h1>
+<p class="subtitle">The Northern District of Illinois is one of the highest-volume bankruptcy courts in America -- and 137,366 of its 238,789 Chapter 13 cases ended in dismissal. The rate hit 94.1% in 2024.</p>
+<div class="alert">N.D. Ill.: 94.1% dismissal rate in 2024</div>
 </div></div>
-<div class="hero">
-<h1>Bankruptcy in Chicago</h1>
-<p class="subtitle">Free data and resources from the Open Bankruptcy Project</p>
-<div class="stat-cards">
-<div class="stat-card"><div class="number">67.0%</div><div class="label">Dismissal Rate (N.D. Ill.)</div></div>
-<div class="stat-card"><div class="number">238,789</div><div class="label">Cases Filed (2008-2024)</div></div>
-<div class="stat-card"><div class="number">38.4%</div><div class="label">Prior Filing Rate</div></div>
-</div></div>
-<div class="content">
-<h2>District Data</h2>
-<p>All data from the Federal Judicial Center Integrated Database (2008-2024).</p>
-<table>
-<tr><th>District</th><th>Cases Filed</th><th>Dismissal Rate</th><th>Prior Filing Rate</th><th>Pro Se Rate</th></tr>
-<tr><td>N.D. Ill.</td><td>238,789</td><td class="highlight">67.0%</td><td>38.4%</td><td>6.1%</td></tr>
-<tr><td>C.D. Ill.</td><td>20,330</td><td>39.5%</td><td>32.1%</td><td>2.6%</td></tr>
-<tr><td>S.D. Ill.</td><td>24,161</td><td>46.4%</td><td>35.8%</td><td>2.0%</td></tr>
-</table>
-<h2>What This Means</h2>
-<p>A 67.0% dismissal rate means roughly 67 out of every 100 Chapter 13 cases in the N.D. Ill. end without a discharge. Dismissed debtors lose automatic stay protection, forfeit fees paid, and often end up worse off than before filing.</p>
-<p>High dismissal rates can signal systemic problems -- inadequate attorney preparation, unrealistic plans, or high-volume practices prioritizing filing speed over case quality.</p>
+
+<div class="container">
+<div class="stats-row">
+<div class="stat-card danger"><div class="number">67.0%</div><div class="label">Overall Dismissal Rate</div></div>
+<div class="stat-card"><div class="number">238,789</div><div class="label">Total Cases Filed</div></div>
+<div class="stat-card danger"><div class="number">137,366</div><div class="label">Cases Dismissed</div></div>
+<div class="stat-card"><div class="number">67,571</div><div class="label">Cases Discharged</div></div>
+<div class="stat-card danger"><div class="number">38.4%</div><div class="label">Prior Filer Rate</div></div>
+<div class="stat-card danger"><div class="number">7,607</div><div class="label">Est. 1328(f) Violations</div></div>
+</div>
+</div>
+
+<section><div class="container">
+<h2>NDIL Dismissal Rate by Year (2008--2024)</h2>
+<div class="chart-container">
+<div class="chart-title">Chapter 13 Dismissal Rate -- Northern District of Illinois</div>
+<svg viewBox="0 0 850 320" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;min-width:600px">
+<line x1="50" y1="30" x2="50" y2="280" stroke="#30363d" stroke-width="1"/>
+<line x1="50" y1="280" x2="830" y2="280" stroke="#30363d" stroke-width="1"/>
+<line x1="50" y1="230" x2="830" y2="230" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4"/>
+<line x1="50" y1="180" x2="830" y2="180" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4"/>
+<line x1="50" y1="130" x2="830" y2="130" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4"/>
+<line x1="50" y1="80" x2="830" y2="80" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4"/>
+<line x1="50" y1="30" x2="830" y2="30" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4"/>
+<text x="45" y="284" fill="#8b949e" font-size="11" text-anchor="end">0%</text>
+<text x="45" y="234" fill="#8b949e" font-size="11" text-anchor="end">20%</text>
+<text x="45" y="184" fill="#8b949e" font-size="11" text-anchor="end">40%</text>
+<text x="45" y="134" fill="#8b949e" font-size="11" text-anchor="end">60%</text>
+<text x="45" y="84" fill="#8b949e" font-size="11" text-anchor="end">80%</text>
+<text x="45" y="34" fill="#8b949e" font-size="11" text-anchor="end">100%</text>
+<!-- 2008: 69.4% -->
+<rect x="56" y="106.5" width="40" height="173.5" rx="3" fill="#58a6ff" opacity="0.85"><title>2008: 69.4%</title></rect>
+<text x="76" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2008</text>
+<!-- 2009: 61.3% -->
+<rect x="102" y="126.75" width="40" height="153.25" rx="3" fill="#58a6ff" opacity="0.85"><title>2009: 61.3%</title></rect>
+<text x="122" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2009</text>
+<!-- 2010: 60.0% -->
+<rect x="148" y="130" width="40" height="150" rx="3" fill="#58a6ff" opacity="0.85"><title>2010: 60.0%</title></rect>
+<text x="168" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2010</text>
+<!-- 2011: 56.3% -->
+<rect x="194" y="139.25" width="40" height="140.75" rx="3" fill="#58a6ff" opacity="0.85"><title>2011: 56.3%</title></rect>
+<text x="214" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2011</text>
+<!-- 2012: 60.4% -->
+<rect x="240" y="129" width="40" height="151" rx="3" fill="#58a6ff" opacity="0.85"><title>2012: 60.4%</title></rect>
+<text x="260" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2012</text>
+<!-- 2013: 64.6% -->
+<rect x="286" y="118.5" width="40" height="161.5" rx="3" fill="#58a6ff" opacity="0.85"><title>2013: 64.6%</title></rect>
+<text x="306" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2013</text>
+<!-- 2014: 69.1% -->
+<rect x="332" y="107.25" width="40" height="172.75" rx="3" fill="#58a6ff" opacity="0.85"><title>2014: 69.1%</title></rect>
+<text x="352" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2014</text>
+<!-- 2015: 72.3% -->
+<rect x="378" y="99.25" width="40" height="180.75" rx="3" fill="#58a6ff" opacity="0.85"><title>2015: 72.3%</title></rect>
+<text x="398" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2015</text>
+<!-- 2016: 72.0% -->
+<rect x="424" y="100" width="40" height="180" rx="3" fill="#58a6ff" opacity="0.85"><title>2016: 72.0%</title></rect>
+<text x="444" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2016</text>
+<!-- 2017: 68.4% -->
+<rect x="470" y="109" width="40" height="171" rx="3" fill="#58a6ff" opacity="0.85"><title>2017: 68.4%</title></rect>
+<text x="490" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2017</text>
+<!-- 2018: 66.8% -->
+<rect x="516" y="113" width="40" height="167" rx="3" fill="#58a6ff" opacity="0.85"><title>2018: 66.8%</title></rect>
+<text x="536" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2018</text>
+<!-- 2019: 63.0% -->
+<rect x="562" y="122.5" width="40" height="157.5" rx="3" fill="#58a6ff" opacity="0.85"><title>2019: 63.0%</title></rect>
+<text x="582" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2019</text>
+<!-- 2020: 60.4% -->
+<rect x="608" y="129" width="40" height="151" rx="3" fill="#58a6ff" opacity="0.85"><title>2020: 60.4%</title></rect>
+<text x="628" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2020</text>
+<!-- 2021: 66.0% -->
+<rect x="654" y="115" width="40" height="165" rx="3" fill="#58a6ff" opacity="0.85"><title>2021: 66.0%</title></rect>
+<text x="674" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2021</text>
+<!-- 2022: 82.3% -->
+<rect x="700" y="74.25" width="40" height="205.75" rx="3" fill="#f85149" opacity="0.9"><title>2022: 82.3%</title></rect>
+<text x="720" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2022</text>
+<!-- 2023: 91.1% -->
+<rect x="746" y="52.25" width="40" height="227.75" rx="3" fill="#f85149" opacity="0.9"><title>2023: 91.1%</title></rect>
+<text x="766" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2023</text>
+<!-- 2024: 94.1% -->
+<rect x="792" y="44.75" width="40" height="235.25" rx="3" fill="#f85149" opacity="0.9"><title>2024: 94.1%</title></rect>
+<text x="812" y="296" fill="#8b949e" font-size="10" text-anchor="middle">2024</text>
+</svg>
+</div>
+<p style="color:#8b949e;font-size:0.85rem;margin-top:8px">Source: Federal Judicial Center Integrated Database, 2008--2024. Analysis by Open Bankruptcy Project.</p>
+</div></section>
+
+<section><div class="container">
+<h2>The Scale of the Problem</h2>
+<div class="card">
+<h3>Massive Volume, Massive Failure</h3>
+<p>The Northern District of Illinois processes more Chapter 13 cases than almost any other district in the country. The numbers are staggering:</p>
+<ul>
+<li><strong>238,789 cases filed</strong> over 17 years -- more than most states combined</li>
+<li><strong>137,366 dismissed</strong> -- each representing a family that invested years in a failing plan</li>
+<li><strong>Only 67,571 discharges</strong> -- a 28.3% success rate</li>
+<li><strong>38.4% prior filer rate</strong> -- nearly 4 in 10 have failed before and are trying again</li>
+<li><strong>7,607 estimated 1328(f) violations</strong> -- cases that could never legally succeed</li>
+</ul>
+</div>
+<div class="card">
+<h3>The Acceleration</h3>
+<p>From 2008 to 2020, the dismissal rate fluctuated between 56% and 72%. Then it accelerated dramatically:</p>
+<ul>
+<li><strong>2020:</strong> 60.4% -- within historical norms</li>
+<li><strong>2022:</strong> 82.3% -- a sharp jump</li>
+<li><strong>2023:</strong> 91.1% -- approaching total failure</li>
+<li><strong>2024:</strong> 94.1% -- virtually no one succeeds</li>
+</ul>
+<p>This acceleration from the 60s to the 90s in just four years mirrors patterns seen in other collapsing districts like EDNY and NDGA.</p>
+</div>
+</div></section>
+
+<section><div class="container">
+<h2>The Repeat Filer Cycle</h2>
+<div class="card">
+<p>38.4% of NDIL filers have filed before. The prior filer rate peaked at 48.3% in 2020 -- meaning nearly half the docket was repeat filers. This creates a self-reinforcing cycle:</p>
+<ul>
+<li>Consumer files Chapter 13 with inadequate support</li>
+<li>Case is dismissed after months or years</li>
+<li>Consumer's financial situation has not improved</li>
+<li>Consumer files again -- now as a "prior filer"</li>
+<li>Cycle repeats, often with the same attorney and same outcome</li>
+</ul>
+<p>An estimated 7,607 of these repeat filings may have violated 1328(f) time bars -- meaning discharge was legally impossible from the start.</p>
+</div>
+</div></section>
+
+<section><div class="container">
 <h2>Frequently Asked Questions</h2>
-<div class="faq"><h3>What is the dismissal rate in Chicago?</h3><p>N.D. Ill.: 67.0% across 238,789 cases (2008-2024).</p></div>
-<div class="faq"><h3>Can I check if I can file bankruptcy again?</h3><p>Yes -- use the free screener at <a href="https://1328f.com" style="color:#58a6ff">1328f.com</a>.</p></div>
-<div class="cta"><h2 style="border:none;margin:0 0 16px">Free Tools</h2>
-<a href="https://1328f.com">Discharge Screener</a>
-<a href="https://openbankruptcyproject.org">Research Platform</a>
-<a href="https://chapter7vs13.org">Chapter 7 vs 13</a></div>
-<div class="network"><h2>Open Bankruptcy Project Network</h2><ul>
-<li><a href="https://openbankruptcyproject.org">openbankruptcyproject.org</a></li>
-<li><a href="https://1328f.com">1328f.com</a></li>
-<li><a href="https://chapter7vs13.org">chapter7vs13.org</a></li>
-<li><a href="https://meanstest.org">meanstest.org</a></li>
-<li><a href="https://automaticstay.org">automaticstay.org</a></li>
-<li><a href="https://dismissalrate.org">dismissalrate.org</a></li>
-</ul></div></div>
-<div class="footer">
-<p>Part of the <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> network</p>
-<p>Data: Federal Judicial Center (2008-2024) | 501(c)(3) pending (EIN 41-5159631)</p>
-</div></body></html>
+<details class="faq-item"><summary>What is the Chapter 13 dismissal rate in Chicago?</summary><div class="answer"><p>The Northern District of Illinois has a 67.0% overall Chapter 13 dismissal rate based on 238,789 cases filed between 2008 and 2024. In 2024, the rate reached 94.1%.</p></div></details>
+<details class="faq-item"><summary>How many Chapter 13 cases are dismissed in Chicago?</summary><div class="answer"><p>137,366 out of 238,789 Chapter 13 cases filed in NDIL between 2008 and 2024 ended in dismissal. Only 67,571 resulted in discharge.</p></div></details>
+<details class="faq-item"><summary>What is the prior filer rate in Chicago bankruptcy?</summary><div class="answer"><p>38.4% of Chapter 13 filers in the Northern District of Illinois have filed bankruptcy before. An estimated 7,607 cases may involve potential 1328(f) eligibility violations.</p></div></details>
+<details class="faq-item"><summary>Is the Chicago bankruptcy dismissal rate getting worse?</summary><div class="answer"><p>Yes. The dismissal rate climbed from 56.3% in 2011 to 94.1% in 2024. The acceleration since 2020 has been dramatic -- from 60.4% to 94.1% in just four years.</p></div></details>
+<details class="faq-item"><summary>What should I do before filing Chapter 13 in Chicago?</summary><div class="answer"><p>Given the 94.1% dismissal rate, consult with a qualified attorney who can show you their personal track record. Ask about Chapter 7 as an alternative. Check your 1328(f) eligibility if you have a prior discharge. See our <a href="what-to-know.html">consumer guide</a> for detailed questions to ask.</p></div></details>
+</div></section>
+
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Check Your Eligibility</h2>
+<p>Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.</p>
+<a href="https://1328f.com" class="cta">Free Discharge Screener</a>
+</div>
+
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://bankruptcynewyork.org">New York</a>
+<a href="https://bankruptcyatlanta.org">Atlanta</a>
+<a href="https://bankruptcykansascity.org">Kansas City</a>
+<a href="https://bankruptcymill.com">Bankruptcy Mills</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://bankruptcydismissed.com">Dismissed?</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost</a>
+<a href="https://filebankruptcyagain.com">File Again?</a>
+</div>
+</div>
+</div>
+
+<footer><div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Data sourced from the Federal Judicial Center Integrated Database (2008--2024).</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>&copy; 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+</body>
+</html>

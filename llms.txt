@@ -1,0 +1,20 @@
+# Chicago Bankruptcy Statistics -- Chapter 13 Dismissal Rates [2026]
+> Chicago bankruptcy statistics from 4.9M federal cases. Chapter 13 dismissal rates, filing trends, and outcome data analyzed by the Open Bankruptcy Project.
+
+## About
+bankruptcychicago.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Chicago Bankruptcy Statistics -- Chapter 13 Dismissal Rates: https://bankruptcychicago.org/
+- NDIL Chapter 13 Statistics -- Year-by-Year Data | Bankruptcy Chicago: https://bankruptcychicago.org/statistics.html
+- What to Know About Chapter 13 in Chicago -- Consumer Guide | Bankruptcy Chicago: https://bankruptcychicago.org/what-to-know.html
+- Chicago Bankruptcy Resources -- Courts, Legal Aid, Free Tools | Bankruptcy Chicago: https://bankruptcychicago.org/resources.html
+- Chicago Federal Bankruptcy Court Guide -- N.D. Illinois Filing Information: https://bankruptcychicago.org/court-guide.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).

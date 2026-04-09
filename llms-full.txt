@@ -1,0 +1,806 @@
+# bankruptcychicago.org -- Full Content
+
+This file contains the full text content of all pages on bankruptcychicago.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Chicago Bankruptcy Statistics -- Chapter 13 Dismissal Rates [2026]
+Source: https://bankruptcychicago.org/
+
+Bankruptcy Chicago
+HomeStatisticsWhat to KnowResourcesOBP
+
+Chicago Bankruptcy Statistics -- Chapter 13 Dismissal Data
+
+The Northern District of Illinois is one of the highest-volume bankruptcy courts in America. 137,366 of its 238,789 Chapter 13 cases ended in dismissal. The preliminary rate was 94.1% in 2024.
+
+N.D. Ill.: 94.1% dismissal rate in 2024
+
+65.9%
+
+Dismissal Rate (2008-2019)
+
+238,789
+
+Cases Filed (2008-2024)
+
+137,366
+
+Cases Dismissed
+
+67,571
+
+Cases Discharged
+
+38.4%
+
+Prior Filer Rate
+
+7,607
+
+Est. 1328(f) Violations
+
+NDIL Dismissal Rate by Year (2008--2024)
+
+Chapter 13 Dismissal Rate -- Northern District of Illinois
+
+Source: Federal Judicial Center Integrated Database, 2008--2024. Analysis by Open Bankruptcy Project.
+
+Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary -- successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
+
+Key Statistics
+
+High Volume, High Dismissal Rates
+
+The Northern District of Illinois processes more Chapter 13 cases than almost any other district in the country. Key figures from 2008--2024:
+
+238,789 cases filed over 17 years
+
+137,366 dismissed -- a 28.3% discharge rate overall
+
+67,571 discharges granted during this period
+
+38.4% prior filer rate -- nearly 4 in 10 filers had a prior bankruptcy filing
+
+7,607 estimated 1328(f) violations -- cases where statutory time bars may have applied
+
+Year-Over-Year Trend
+
+From 2008 to 2020, the dismissal rate fluctuated between 56% and 72%. Preliminary data for recent years shows notably higher rates:
+
+2020: 60.4% -- within historical norms
+
+2022: 82.3% -- a significant increase
+
+2023: 91.1% -- among the highest preliminary rates in the database
+
+2024: 94.1% -- very few cases have reached discharge so far (preliminary data)
+
+This increase from the 60s to the 90s in the preliminary data mirrors patterns observed in other high-dismissal districts such as EDNY and NDGA.
+
+Repeat Filer Patterns
+
+38.4% of NDIL filers have filed before. The prior filer rate peaked at 48.3% in 2020 -- meaning nearly half the docket consisted of repeat filers. A common pattern emerges:
+
+Consumer files Chapter 13
+
+Case is dismissed after months or years
+
+Consumer's financial situation has not improved
+
+Consumer files again -- now as a "prior filer"
+
+Pattern may repeat, sometimes with the same attorney
+
+An estimated 7,607 of these repeat filings may have been subject to 1328(f) time bars -- meaning discharge eligibility may not have been present at the time of filing.
+
+Frequently Asked Questions
+
+What is the Chapter 13 dismissal rate in Chicago?
+
+The Northern District of Illinois has a 65.9% Chapter 13 dismissal rate based on mature 2008-2019 data where most cases have reached final disposition. 238,789 total cases were filed between 2008 and 2024. Recent years show higher preliminary rates because successful 3-5 year plans are still active.
+
+How many Chapter 13 cases are dismissed in Chicago?
+
+137,366 out of 238,789 Chapter 13 cases filed in NDIL between 2008 and 2024 ended in dismissal. Only 67,571 resulted in discharge.
+
+What is the prior filer rate in Chicago bankruptcy?
+
+38.4% of Chapter 13 filers in the Northern District of Illinois have filed bankruptcy before. An estimated 7,607 cases may involve potential 1328(f) eligibility violations.
+
+Is the Chicago bankruptcy dismissal rate getting worse?
+
+The mature rate (2008-2019) is 65.9%. Preliminary data for 2020-2024 shows rates above 90%, but these figures are elevated because Chapter 13 plans run 3-5 years and successful plans from those years are still active.
+
+What should I do before filing Chapter 13 in Chicago?
+
+With a preliminary 94.1% dismissal rate in 2024, consult with a qualified attorney who can show you their personal track record. Ask about Chapter 7 as an alternative. Check your 1328(f) eligibility if you have a prior discharge. See our consumer guide for detailed questions to ask.
+
+Check Your Eligibility
+
+Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
+
+Free Discharge Screener
+
+Browse Other Cities
+
+Houston
+Miami
+Phoenix
+Minneapolis
+St. Louis
+New York
+Newark
+San Antonio
+Kansas City
+View All Cities →
+
+Open Bankruptcy Project Network
+
+OBP Home
+1328(f) Screener
+New York
+Atlanta
+Kansas City
+Bankruptcy Mills
+Ch. 7 vs 13
+Dismissed?
+Cost
+File Again?
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Need Free Bankruptcy Help?
+
+If you cannot afford a bankruptcy attorney, free help is available. Legal aid organizations, law school clinics, and court self-help programs can assist you at no cost.
+
+Find Free Help in Illinois
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## NDIL Chapter 13 Statistics -- Year-by-Year Data | Bankruptcy Chicago
+Source: https://bankruptcychicago.org/statistics.html
+
+Bankruptcy Chicago
+HomeStatisticsWhat to KnowResourcesOBP
+
+Chicago Chapter 13 Statistics -- Complete Data
+
+Year-by-year breakdown of Chapter 13 bankruptcy outcomes in the Northern District of Illinois. All data sourced from the Federal Judicial Center Integrated Database.
+
+65.9%
+
+Dismissal Rate (2008-2019)
+
+238,789
+
+Total Cases (2008--2024)
+
+137,366
+
+Total Dismissed
+
+67,571
+
+Total Discharged
+
+38.4%
+
+Prior Filer Rate
+
+94.1%
+
+2024 Dismissal Rate
+
+Year-by-Year Breakdown -- N.D. Ill.
+
+YearCases FiledDismissal RatePrior Filer RateTrend
+
+200811,91269.4%36.8%
+
+200912,54161.3%36.3%-8.1
+
+201014,48660.0%31.6%-1.3
+
+201114,38256.3%26.5%-3.7
+
+201216,19960.4%25.8%+4.1
+
+201318,31264.6%31.5%+4.2
+
+201418,61869.1%35.6%+4.5
+
+201520,20272.3%39.5%+3.2
+
+201619,96472.0%36.9%-0.3
+
+201719,24568.4%44.9%-3.6
+
+201818,13266.8%47.9%-1.6
+
+201916,10763.0%47.9%-3.8
+
+2020*9,66760.4%48.3%-2.6
+
+2021*5,06366.0%46.6%+5.6
+
+2022*7,01082.3%46.7%+16.3
+
+2023*8,06091.1%42.6%+8.8
+
+2024*8,88994.1%40.5%+3.0
+
+* Preliminary -- Chapter 13 plans run 3-5 years, so successful plans filed in these years are still active. Only early dismissals are reflected.
+
+Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary -- successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
+
+Volume Analysis
+
+NDIL's case volume provides additional context:
+
+Peak volume: 20,202 cases in 2015 -- the highest of any year
+
+Pre-COVID average: ~16,000 cases/year (2012--2019)
+
+COVID low: 5,063 cases in 2021
+
+Post-COVID recovery: 8,889 cases in 2024 -- about half of peak volume
+
+Even at reduced volume, the court is processing nearly 9,000 cases per year -- and dismissing 94.1% of them. At peak volume (2015), the dismissal rate was 72.3%. The post-COVID period has seen fewer cases but higher preliminary dismissal rates.
+
+Prior Filer Analysis
+
+The prior filer rate in NDIL peaked at 48.3% in 2020 -- meaning nearly half the docket consisted of people who had been through bankruptcy before. Key patterns:
+
+Prior filer rate grew from 25.8% (2012) to 48.3% (2020) -- nearly doubling
+
+It has declined slightly to 40.5% in 2024, but remains elevated
+
+The correlation between prior filing and dismissal is strong: districts with high repeat rates have high dismissal rates
+
+An estimated 7,607 cases may involve 1328(f) time bar violations
+
+Key Findings
+
+137,366 dismissed cases represent one of the largest concentrations of Chapter 13 dismissals in the country
+
+The preliminary dismissal rate rose from 56.3% (2011 mature) to 94.1% (2024 preliminary)
+
+6.1% pro se rate is low -- most filers have attorneys, yet most cases still end in dismissal
+
+7,607 estimated 1328(f) violations -- cases where statutory time bars may have applied at filing
+
+At current rates, fewer than 600 of ~8,900 annual filers will receive a discharge
+
+Explore National Data at OBP
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data: Federal Judicial Center Integrated Database (2008--2024).
+
+Not legal advice. Consult a qualified attorney.
+
+© 2026 Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## What to Know About Chapter 13 in Chicago -- Consumer Guide | Bankruptcy Chicago
+Source: https://bankruptcychicago.org/what-to-know.html
+
+Bankruptcy Chicago
+HomeStatisticsWhat to KnowResourcesOBP
+
+What Chicago Consumers Should Know About Chapter 13
+
+If you are considering Chapter 13 bankruptcy in the Chicago area -- or have already been dismissed -- this page explains what the data means for you.
+
+94.1% Preliminary Dismissal Rate in 2024
+
+The Northern District of Illinois shows a 94.1% preliminary Chapter 13 dismissal rate in 2024. Over the full 2008--2024 period, 137,366 out of 238,789 cases ended in dismissal. These are among the highest rates observed in the FJC database.
+
+What Does "Dismissed" Mean?
+
+When a Chapter 13 case is dismissed, the repayment plan did not complete and the case was closed without a discharge. Common causes include:
+
+Missed plan payments -- failing to make required monthly payments to the trustee
+
+Failure to file documents -- tax returns, pay stubs, financial management certificates
+
+Plan not confirmable -- the proposed plan does not meet legal requirements
+
+Ineligibility -- the debtor was never eligible (including 1328(f) time bars)
+
+After dismissal, creditors can resume collection, garnishment, foreclosure, and repossession.
+
+Why Chicago's Numbers Matter
+
+NDIL is one of the largest bankruptcy districts in the country. With a 94.1% preliminary dismissal rate:
+
+Roughly 8,400 families per year are going through a multi-year process that may end in dismissal
+
+Attorney fees are collected for cases that frequently end in dismissal
+
+Court resources are used by cases cycling through filing and dismissal
+
+38.4% of filers have filed before -- they are returning after a prior case that did not result in discharge
+
+Questions to Ask an Attorney Before Filing
+
+1. What is your firm's Chapter 13 completion rate?
+
+The district's preliminary 2024 dismissal rate is 94.1%. Ask how their clients compare. If they cannot answer, that is worth noting.
+
+2. Have you screened me for 1328(f) eligibility?
+
+If you have a prior discharge, statutory time bars may prevent you from receiving another one. 7,607 cases in this district may have been filed despite ineligibility.
+
+3. Why Chapter 13 instead of Chapter 7?
+
+Chapter 7 is completed in months with much higher success rates. Your attorney should explain specifically why a 3-5 year plan is better for your situation.
+
+4. How many cases does your firm handle simultaneously?
+
+Chicago has a history of high-volume bankruptcy practices. Ask what individual attention your case will receive throughout the 3-5 year plan.
+
+5. What happens to your fees if I am dismissed?
+
+Most Chapter 13 attorney fees are paid through the plan. If dismissed, the attorney may have been paid while you received no discharge.
+
+6. What is your plan to keep my case on track?
+
+With a 94.1% preliminary dismissal rate in the district, ask specifically what steps they take to support plan completion.
+
+Factors to Evaluate
+
+Factors to Consider
+
+No eligibility screening -- no check of prior filing history before accepting your case
+
+Volume-first practice -- hundreds of active cases, minimal individual attention
+
+No Chapter 7 analysis -- Chapter 13 presented without evaluating alternatives
+
+Unreachable after filing -- cannot get responses once the case is in process
+
+Same firm, same outcome -- if the same firm filed your previous dismissed case, ask why this time will be different
+
+No discussion of the district's track record -- transparency about the environment matters
+
+If You Have Been Dismissed
+
+Review the dismissal order -- understand exactly why your case was dismissed
+
+Check time bars -- 109(g) and 362(c) may limit protections if you refile
+
+Evaluate your attorney -- did they file documents on time? Attend hearings? Communicate?
+
+Consider Chapter 7 -- if eligible, it completes in months with higher success rates
+
+Get a second opinion -- do not refile with the same firm without consulting another attorney first
+
+Prior Filer Considerations
+
+38.4% of NDIL filers have filed before. If you are a repeat filer, you face additional risks:
+
+Your automatic stay may be limited to 30 days under section 362(c)(3)
+
+You may be ineligible for discharge under 1328(f) time bars
+
+Courts may presume bad faith if you have multiple prior filings
+
+The same approach that did not result in discharge previously may produce the same outcome
+
+Use the free 1328(f) screener to check your eligibility before paying any fees.
+
+Check Your Eligibility -- Free Screener
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+This is general information, not legal advice. Consult a qualified attorney.
+
+© 2026 Open Bankruptcy Project
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Chicago Bankruptcy Resources -- Courts, Legal Aid, Free Tools | Bankruptcy Chicago
+Source: https://bankruptcychicago.org/resources.html
+
+Bankruptcy Chicago
+HomeStatisticsWhat to KnowResourcesOBP
+
+Chicago Bankruptcy Resources
+
+Courts, legal aid organizations, free tools, and research resources for Chicago area bankruptcy filers.
+
+Federal Bankruptcy Court
+
+Northern District of Illinois -- Bankruptcy Court
+
+ilnb.uscourts.gov
+
+Everett McKinley Dirksen Federal Building, 219 S. Dearborn Street, Chicago, IL 60604. Handles all bankruptcy filings for the Chicago metropolitan area.
+
+Legal Aid and Pro Bono Services
+
+Legal Aid Chicago
+
+legalaidchicago.org
+
+Free legal services for low-income Cook County residents, including bankruptcy assistance and foreclosure defense.
+
+Chicago Volunteer Legal Services (CVLS)
+
+cvls.org
+
+Pro bono legal assistance connecting low-income residents with volunteer attorneys for civil legal matters.
+
+Prairie State Legal Services
+
+pslegal.org
+
+Free legal help for residents in northern and central Illinois suburbs.
+
+Chicago Bar Foundation -- Legal Aid Referral
+
+chicagobarfoundation.org
+
+Connects consumers to legal aid programs and pro bono attorneys across Cook County.
+
+Free Screening and Research Tools
+
+1328(f) Discharge Eligibility Screener
+
+1328f.com
+
+Free tool to check whether a prior discharge creates a time bar. Runs entirely in your browser -- no data collected.
+
+Open Bankruptcy Project
+
+openbankruptcyproject.org
+
+National research platform analyzing Chapter 13 outcomes across all 94 federal districts.
+
+1328(f) Research Platform
+
+1328f.org
+
+In-depth research on repeat filing patterns and eligibility violations.
+
+Federal Resources
+
+U.S. Trustee Program -- Region 11
+
+justice.gov/ust
+
+Oversees bankruptcy case administration in N.D. Ill. File complaints about attorney or trustee misconduct.
+
+PACER
+
+pacer.uscourts.gov
+
+Access federal court records. Fee-based ($0.10/page, capped at $3.00/document).
+
+Federal Judicial Center -- Integrated Database
+
+fjc.gov/research/idb
+
+The source database for all statistics on this site.
+
+Illinois State Resources
+
+Illinois Attorney Registration and Disciplinary Commission (ARDC)
+
+iardc.org
+
+Look up attorney registration status and file complaints about Illinois-licensed attorneys.
+
+Illinois Legal Aid Online
+
+illinoislegalaid.org
+
+Free legal information and self-help resources for Illinois residents, including bankruptcy guides.
+
+More from the OBP Network
+
+Chapter 7 vs. Chapter 13
+
+chapter7vs13.org
+
+Side-by-side comparison of Chapter 7 and Chapter 13 bankruptcy.
+
+Bankruptcy Dismissed -- What Now?
+
+bankruptcydismissed.com
+
+Next steps after a dismissed bankruptcy case.
+
+How Much Does Bankruptcy Cost?
+
+howmuchdoesbankruptcycost.com
+
+Fee breakdowns for Chapter 7 and Chapter 13 bankruptcy.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+This is general information, not legal advice. Consult a qualified attorney.
+
+© 2026 Open Bankruptcy Project
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+---
+
+## Chicago Federal Bankruptcy Court Guide -- N.D. Illinois Filing Information [2026]
+Source: https://bankruptcychicago.org/court-guide.html
+
+Chicago Bankruptcy Guide
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Chicago Federal Bankruptcy Court Guide
+
+Everything you need to know about the United States Bankruptcy Court for the Northern District of Illinois. Address, filing hours, local rules, trustee panel, and pro se resources.
+
+Court Location and Contact
+
+United States Bankruptcy Court for the Northern District of Illinois
+
+Everett McKinley Dirksen U.S. Courthouse, 219 S. Dearborn St, Suite 641, Chicago, IL 60604
+
+Phone: (312) 435-5694
+
+Website: https://www.ilnb.uscourts.gov
+
+CM/ECF: https://ecf.ilnb.uscourts.gov
+
+PACER: pacer.uscourts.gov
+
+Filing Hours and Procedures
+
+Filing Hours: Monday-Friday, 8:30 AM - 4:30 PM CT. Electronic filing (CM/ECF) available 24/7.
+
+Filing Fees: Chapter 7: $338 | Chapter 13: $313 | Chapter 11: $1,738
+
+Fee Waivers: Available for Chapter 7 filers with income below 150% of the federal poverty line. Chapter 13 filers may request installment payments.
+
+Electronic Filing: Attorneys must file through CM/ECF. Pro se debtors may file on paper at the clerk's window or request CM/ECF access.
+
+Local Rules: https://www.ilnb.uscourts.gov/local-rules
+
+Trustee Panel Information
+
+Chapter 7 trustees are assigned from the U.S. Trustee panel for Region 11. Standing Chapter 13 Trustees serve the Chicago (Eastern) Division.
+
+The U.S. Trustee Program oversees the administration of bankruptcy cases and maintains the panel of private trustees. You can find the current trustee panel at justice.gov/ust.
+
+341 Meeting of Creditors
+
+Location: 341 meetings for the Eastern Division are held at the Dirksen U.S. Courthouse, 219 S. Dearborn St, Chicago, IL 60604, or at designated trustee meeting facilities, or by phone/video.
+
+What to Bring: Government-issued photo ID, proof of Social Security number, most recent tax return, recent pay stubs, and recent bank statements.
+
+Timing: The 341 meeting is typically scheduled 20-40 days after filing. You will receive a notice with the exact date, time, and format. For more: 341meeting.org.
+
+Pro Se Resources
+
+The N.D. Illinois has a robust Self-Help desk for pro se filers. The Chicago Bar Foundation, Legal Aid Chicago, and the LAF provide free assistance. The court's website has detailed self-help resources.
+
+Required Forms: All bankruptcy forms are available at uscourts.gov/forms/bankruptcy-forms.
+
+Credit Counseling: You must complete credit counseling from an approved agency before filing. List of approved agencies: justice.gov/ust.
+
+For more pro se filing resources: prosebankruptcy.org | filebankruptcywithoutlawyer.com.
+
+Local Filing Statistics
+
+10,000+
+
+Total Cases in FJC Data
+
+65%
+
+Chapter 7 Filings
+
+31%
+
+Chapter 13 Filings
+
+$338
+
+Chapter 7 Filing Fee
+
+FJC data covering N.D. Illinois filings. Source: Federal Judicial Center Integrated Database. Attorney fee ranges are estimates based on local market data.
+
+Exemptions: Illinois does not allow federal exemptions. Debtors must use Illinois state exemptions under 735 ILCS 5/12-1001 et seq. The homestead exemption is $15,000 per individual ($30,000 for joint filers).
+
+For detailed exemption information: bankruptcyexemptionsbystate.com.
+
+Frequently Asked Questions
+
+How do I file bankruptcy in Chicago?
+
+File at the Everett McKinley Dirksen U.S. Courthouse, 219 S. Dearborn St, Chicago, IL 60604. Complete credit counseling first, prepare your petition and schedules, and pay the filing fee. Attorneys must file electronically through CM/ECF.
+
+What are the filing fees in the Northern District of Illinois?
+
+Chapter 7 costs $338 and Chapter 13 costs $313. You can pay in installments or apply for a fee waiver. Attorney fees in Chicago typically range from $1,200-$2,500 for Chapter 7 and $3,000-$5,000 for Chapter 13.
+
+Why does Chicago have so many bankruptcy mill concerns?
+
+The N.D. Illinois has historically been a hotbed for high-volume bankruptcy filers (so-called "mills") that process large numbers of cases with minimal individual attention. This has led to higher dismissal rates in some attorney practices. Research your attorney's track record carefully.
+
+Does Illinois allow federal exemptions?
+
+No. Illinois has opted out of the federal exemption scheme. You must use Illinois state exemptions. The homestead exemption is $15,000 per debtor ($30,000 joint). The wildcard exemption is $4,000.
+
+Where are 341 meetings held in Chicago?
+
+341 meetings for the Eastern Division are held at the Dirksen U.S. Courthouse, 219 S. Dearborn St, or at designated trustee facilities, or by phone/video. Your notice of meeting specifies the exact format, date, and time.
+
+Related Resources
+
+341meeting.org
+prosebankruptcy.org
+Means Test
+Exemptions by State
+Cost Guide
+Back to Chicago Guide
+
+The Open Bankruptcy Project Network -- 170+ Free Resources
++
+
+Every site below is free, ad-free, and built on real federal court data. No lead generation. No sponsored content. Just information.
+
+openbankruptcyproject.org
+1328f.com
+1328f.org
+automaticstay.org
+chapter7vs13.org
+341meeting.org
+bankruptcymeanstest.org
+howmuchdoesbankruptcycost.com
+bankruptcyexemptionsbystate.com
+prosebankruptcy.org
+
+170+ domains. 10,000+ pages. $0 advertising. No lead generation. Just information.
+
+Related Chicago Bankruptcy Resources
+
+Chicago Bankruptcy Guide
+
+Chapter 7 in Chicago
+
+Chapter 13 in Chicago
+
+Exemptions
+
+Bankruptcy Cost
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub

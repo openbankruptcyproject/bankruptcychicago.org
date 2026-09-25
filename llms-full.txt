@@ -252,25 +252,25 @@ Tools of trade$1,500
 
 Federal Exemptions (Often Better)
 
-Homestead$27,900
+Homestead$31,575
 
-Vehicle$4,450
+Vehicle$5,025
 
-Household goods$14,875 total ($700/item)
+Household goods$16,850 total ($800/item)
 
-Wildcard$1,475 + $13,950 unused homestead
+Wildcard$1,675 + $15,800 unused homestead
 
-Jewelry$1,875
+Jewelry$2,125
 
 Retirement (ERISA)Unlimited
 
-Tools of trade$2,800
+Tools of trade$3,175
 
 Health aidsUnlimited
 
 11 U.S.C. 522(d) - amounts adjusted April 2025
 
-For Chicago renters with no home equity, the federal wildcard ($1,475 + $13,950 unused homestead = $15,425) is often far more valuable than the state wildcard ($4,000). Run both sets of exemptions against your assets before filing.
+For Chicago renters with no home equity, the federal wildcard ($1,675 + $15,800 unused homestead = $17,475) is often far more valuable than the state wildcard ($4,000). Run both sets of exemptions against your assets before filing.
 
 ARDC Oversight - Verifying Your Attorney
 
@@ -338,7 +338,7 @@ The Dirksen Federal Building at 219 S. Dearborn Street, 7th Floor, Chicago, IL 6
 
 Should I use Illinois or federal exemptions?
 
-It depends on your assets. Renters and people without home equity often benefit from federal exemptions because the unused homestead rolls into a large wildcard ($15,425 total). Homeowners with moderate equity may prefer state exemptions. You must choose one system entirely - no mixing. Compare both against your property before deciding.
+It depends on your assets. Renters and people without home equity often benefit from federal exemptions because the unused homestead rolls into a large wildcard ($17,475 total). Homeowners with moderate equity may prefer state exemptions. You must choose one system entirely - no mixing. Compare both against your property before deciding.
 
 How do I check if my bankruptcy attorney is in good standing?
 

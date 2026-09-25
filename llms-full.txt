@@ -90,7 +90,7 @@ Chapter 7 Filing Fee
 
 FJC data covering N.D. Illinois filings. Source: Federal Judicial Center Integrated Database. Attorney fee ranges are estimates based on local market data.
 
-Exemptions: Illinois does not allow federal exemptions. Debtors must use Illinois state exemptions under 735 ILCS 5/12-1001 et seq. The homestead exemption is $15,000 per individual ($30,000 for joint filers).
+Exemptions: Illinois does not allow federal exemptions. Debtors must use Illinois state exemptions under 735 ILCS 5/12-1001 et seq. The homestead exemption is $50,000 per individual ($100,000 for joint filers).
 
 For detailed exemption information: bankruptcyexemptionsbystate.com.
 
@@ -110,7 +110,7 @@ The N.D. Illinois has historically been a hotbed for high-volume bankruptcy file
 
 Does Illinois allow federal exemptions?
 
-No. Illinois has opted out of the federal exemption scheme. You must use Illinois state exemptions. The homestead exemption is $15,000 per debtor ($30,000 joint). The wildcard exemption is $4,000.
+No. Illinois has opted out of the federal exemption scheme. You must use Illinois state exemptions. The homestead exemption is $50,000 per debtor ($100,000 joint). The wildcard exemption is $4,000.
 
 Where are 341 meetings held in Chicago?
 
@@ -226,15 +226,15 @@ Phone: (815) 987-4350
 
 Serves Boone, Carroll, DeKalb, Jo Daviess, Lee, Ogle, Stephenson, Whiteside, and Winnebago counties.
 
-Illinois Bankruptcy Exemptions - State vs. Federal Choice
+Illinois Bankruptcy Exemptions - State Exemptions Only
 
-Illinois is one of roughly 20 states that allows debtors to choose between state exemptions (735 ILCS 5/12-1001 et seq.) and federal exemptions (11 U.S.C. section 522(d)). This choice can make a significant difference in what property you keep. You cannot mix-and-match - pick one system entirely.
+Illinois has opted out of the federal exemptions (735 ILCS 5/12-1201), so Illinois filers use the state exemptions in 735 ILCS 5/12-1001 et seq. The federal list in 11 U.S.C. section 522(d) is shown below for comparison only; Illinois residents cannot choose it.
 
 Illinois State Exemptions
 
-Homestead$15,000 ($30,000 married)
+Homestead$50,000 ($100,000 joint)
 
-Vehicle$2,400
+Vehicle$3,600
 
 Personal property$4,000
 
@@ -246,11 +246,11 @@ Retirement (ERISA)Unlimited
 
 Life insurance proceedsUnlimited
 
-Tools of trade$1,500
+Tools of trade$2,250
 
 735 ILCS 5/12-1001 through 12-1006
 
-Federal Exemptions (Often Better)
+Federal Exemptions (not available in Illinois)
 
 Homestead$31,575
 
@@ -270,7 +270,7 @@ Health aidsUnlimited
 
 11 U.S.C. 522(d) - amounts adjusted April 2025
 
-For Chicago renters with no home equity, the federal wildcard ($1,675 + $15,800 unused homestead = $17,475) is often far more valuable than the state wildcard ($4,000). Run both sets of exemptions against your assets before filing.
+Chicago filers cannot use the federal wildcard ($1,675 + $15,800 unused homestead = $17,475). The Illinois wildcard is $4,000 (735 ILCS 5/12-1001(b)). Run the Illinois exemptions against your assets before filing.
 
 ARDC Oversight - Verifying Your Attorney
 
@@ -336,9 +336,9 @@ Where is the bankruptcy court in Chicago?
 
 The Dirksen Federal Building at 219 S. Dearborn Street, 7th Floor, Chicago, IL 60604. Phone: (312) 435-5694. The court is accessible via CTA Blue and Red lines (Jackson station) and is two blocks from the Metra at LaSalle Street Station.
 
-Should I use Illinois or federal exemptions?
+Can I use federal exemptions in Illinois?
 
-It depends on your assets. Renters and people without home equity often benefit from federal exemptions because the unused homestead rolls into a large wildcard ($17,475 total). Homeowners with moderate equity may prefer state exemptions. You must choose one system entirely - no mixing. Compare both against your property before deciding.
+No. Illinois has opted out of the federal exemptions (735 ILCS 5/12-1201), so filers whose exemptions are governed by Illinois law use the Illinois state exemptions. Compare them against your property before deciding how to file.
 
 How do I check if my bankruptcy attorney is in good standing?
 

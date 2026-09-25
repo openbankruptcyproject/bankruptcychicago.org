@@ -1,6 +1,6 @@
 # bankruptcychicago.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on bankruptcychicago.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -19,6 +19,8 @@ Home›Chicago Bankruptcy Guide›Court Guide
 Chicago Federal Bankruptcy Court Guide
 
 Everything you need to know about the United States Bankruptcy Court for the Northern District of Illinois. Address, filing hours, local rules, trustee panel, and pro se resources.
+
+File at the Everett McKinley Dirksen U.S. Courthouse, 219 S. Dearborn St, Chicago, IL 60604. Complete credit counseling first, prepare your petition and schedules, and pay the filing fee. Attorneys must file electronically through CM/ECF.
 
 Court Location and Contact
 
@@ -141,7 +143,7 @@ howmuchdoesbankruptcycost.com
 bankruptcyexemptionsbystate.com
 prosebankruptcy.org
 
-170+ domains. 10,000+ pages. $0 advertising. No lead generation. Just information.
+213+ domains. 44,000+ pages. $0 advertising. No lead generation. Just information.
 
 Related Chicago Bankruptcy Resources
 
@@ -155,13 +157,33 @@ Exemptions
 
 Bankruptcy Cost
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -176,6 +198,8 @@ Home›Debtor Education in Chicago - Illinois Credit Counseling & Financial Mana
 Debtor Education Requirements in Chicago, Illinois
 
 The Northern District of Illinois is one of the busiest bankruptcy courts in America. Two mandatory courses are required before you can receive a discharge. This guide covers every detail specific to Chicago filers, including the court at 219 S. Dearborn, ARDC attorney oversight, and Illinois's unique exemption choice.
+
+Chicago filers must complete two courses: (1) pre-filing credit counseling from a DOJ-approved agency within 180 days before filing, and (2) a post-filing debtor education course (financial management) before discharge. Both are required under 11 U.S.C. sections 109(h) and 111. Illinois has no additional state-level course requirements beyond the federal mandate.
 
 Two Required Courses for Chicago Filers
 
@@ -360,13 +384,33 @@ Automatic Stay
 How to File
 Exemptions by State
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -384,7 +428,7 @@ Source: https://bankruptcychicago.org/
 Skip to main content
 
 Bankruptcy Chicago
-HomeStatisticsWhat to KnowResourcesOBP Rule 9037 PII Scanner
+HomeStatisticsWhat to KnowResourcesOBP Rule 9037 Compliance Guide
 
 Chicago Bankruptcy Statistics - Chapter 13 Dismissal Data
 
@@ -415,6 +459,8 @@ Prior Filer Rate
 7,607
 
 Est. 1328(f) Violations
+
+The Northern District of Illinois has a 65.9% Chapter 13 dismissal rate based on mature 2008-2019 data where most cases have reached final disposition. 238,789 total cases were filed between 2008 and 2024. Recent years show higher preliminary rates because successful 3-5 year plans are still active.
 
 NDIL Dismissal Rate by Year (2008--2024)
 
@@ -524,19 +570,33 @@ Dismissed?
 Cost
 File Again?
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -622,6 +682,34 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Index
+
 ---
 
 ## Chicago Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy Chicago
@@ -635,6 +723,8 @@ Home›Chicago Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy
 Chicago Bankruptcy Resources
 
 Courts, legal aid organizations, free tools, and research resources for Chicago area bankruptcy filers.
+
+bankruptcydismissed.com Next steps after a dismissed bankruptcy case.
 
 Federal Bankruptcy Court
 
@@ -744,13 +834,33 @@ howmuchdoesbankruptcycost.com
 
 Fee breakdowns for Chapter 7 and Chapter 13 bankruptcy.
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This is general information, not legal advice. Consult a qualified attorney.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -880,17 +990,33 @@ At current rates, fewer than 600 of ~8,900 annual filers will receive a discharg
 
 Explore National Data at OBP
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data: Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Not legal advice. Consult a qualified attorney.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project
+Privacy |
+Terms
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -904,7 +1030,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## What to Know About Chapter 13 in Chicago - Consumer Guide | Bankruptcy Chicago
+## What Chicago Consumers Should Know About Chapter 13 [2026]: N.D. Illinois Dismissal Rate and Local Practice
 Source: https://bankruptcychicago.org/what-to-know.html
 
 Bankruptcy Chicago
@@ -919,6 +1045,8 @@ If you are considering Chapter 13 bankruptcy in the Chicago area - or have alrea
 94.1% Preliminary Dismissal Rate in 2024
 
 The Northern District of Illinois shows a 94.1% preliminary Chapter 13 dismissal rate in 2024. Over the full 2008--2024 period, 137,366 out of 238,789 cases ended in dismissal. These are among the highest rates observed in the FJC database.
+
+The district's preliminary 2024 dismissal rate is 94.1%. Ask how their clients compare. If they cannot answer, that is worth noting.
 
 What Does "Dismissed" Mean?
 
@@ -1016,13 +1144,33 @@ Use the free 1328(f) screener to check your eligibility before paying any fees.
 
 Check Your Eligibility - Free Screener
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This is general information, not legal advice. Consult a qualified attorney.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1092,7 +1240,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1102,6 +1250,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About bankruptcychicago.org
+Source: https://bankruptcychicago.org/about.html
+
+bankruptcychicago.org
+
+Home
+About
+Privacy
+
+About bankruptcychicago.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+bankruptcychicago.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
